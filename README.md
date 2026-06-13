@@ -2,7 +2,9 @@
 A SQL analytics project exploring data from fictional pizza store to tell the revenue , order distributions and top selling products
 
 
+
 SQL QUERIES -- 
+
 use azure;
 
 -- SECTION 1: CORE KPI METRICS
