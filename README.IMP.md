@@ -22,6 +22,8 @@ This project focuses on analyzing a comprehensive dataset of a pizza restaurant'
 ### 2. Order Trends & Behavior
 - **Daily Trend:** **Friday** is the busiest day of the week, capturing the highest volume of order receipts (3,538 orders), closely followed by Thursday and Saturday. Sundays experience the lowest traffic.
 - **Monthly Trend:** Sales peaked significantly in **July** (1,935 orders) and May, while dipping to their lowest points in September and October.
+- <img width="198" height="66" alt="image" src="https://github.com/user-attachments/assets/69ca6eb1-edad-4335-8968-2624ce941377" />
+
 
 ### 3. Category & Size Breakdowns
 - **Category Popularity:** The **Classic** pizza category is the highest revenue generator (26.91% of total sales), though Supreme, Chicken, and Veggie categories follow closely behind, each accounting for roughly ~23-25% of total sales.
