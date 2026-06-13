@@ -30,6 +30,11 @@ SELECT SUM(quantity) * 1.0 / COUNT(DISTINCT order_id) AS Avg_Pizzas_per_Order
 FROM `pizza_sales (1)`;
 
 
+
+
+
+
+
 -- SECTION 2: TRENDS & CATEGORY BREAKDOWNS 
 
 -- 6. Daily Trend for Total Orders
